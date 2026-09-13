@@ -5,6 +5,17 @@
 
 服务器中保持一贯的简洁风格，没有多余或侵入式元素，且一直以高素质社区著称。
 
-服务器目前面向Java版、基岩版玩家开放。
+服务器目前面向Java版、基岩版玩家开放。#
+
+# 开源组件
+
+[服务器资源包](https://github.com/LSSP8618/SVCServer-RescoursePack)
+
+
+
+
+
+
+
 
 如需了解服务器的更多信息，请前往[服务器Wiki](https://docs.qq.com/aio/p/scb9si3v78ahnow?p=TR8TX8EwtmhubwVN7jKixk)
